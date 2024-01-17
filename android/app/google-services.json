@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "945084691466",
+    "project_id": "soundplay-121103",
+    "storage_bucket": "soundplay-121103.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945084691466:android:86fe1c8613d82d4a3c9bf3",
+        "android_client_info": {
+          "package_name": "com.example.sound_play"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1r4V1O6MmJDZGEzAxwrWIb0H5E18puHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
